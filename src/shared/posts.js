@@ -1,0 +1,38 @@
+export const POSTS = [
+  {
+    id: "post123",
+    title: "Introduction to JavaScript",
+    author: "John Smith",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    timestamp: new Date("2023-10-30"),
+    tags: ["JavaScript", "Programming", "Web Development"],
+    status: false,
+  },
+  {
+    id: "post124",
+    title: "Introduction to JavaScript",
+    author: "John Smith",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    timestamp: new Date("2000-9-20"),
+    tags: ["JavaScript", "Programming", "Web Development"],
+    status: true,
+  },
+  {
+    id: "post125",
+    title: "Introduction to JavaScript",
+    author: "John Smith",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    timestamp: new Date("2023-10-30"),
+    tags: ["JavaScript", "Programming", "Web Development"],
+    status: true,
+  },
+  {
+    id: "post126",
+    title: "Introduction to JavaScript",
+    author: "John Smith",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    timestamp: new Date("2023-10-30"),
+    tags: ["JavaScript", "Programming", "Web Development"],
+    status: false,
+  },
+];

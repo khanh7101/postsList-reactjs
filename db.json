@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "author": "John Smith"
+    },
+    {
+      "id": 2,
+      "title": "json-server2",
+      "author": "typicode2"
+    }
+  ],
+  "content": [
+    {
+      "id": 1,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "tags": ["JavaScript", "Programming", "Web Development"]
+    }
+  ],
+  "status": {
+    "id": "1",
+    "status": true
+  }
+}
